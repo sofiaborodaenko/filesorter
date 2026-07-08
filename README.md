@@ -1,4 +1,4 @@
-# File Sorter -- Concurrent File Organization System
+# File Sorter — Concurrent File Organization System
 
 A multi-process file organization system implemented in C using pipes, process synchronization, and asynchronous communication with `select()`.
 
