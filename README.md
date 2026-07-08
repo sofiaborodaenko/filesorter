@@ -4,7 +4,9 @@ A multi-process file organization system implemented in C using pipes, process s
 
 The program scans a user-provided directory, distributes file processing tasks across a worker pool, categorizes files based on filename information, computes file statistics, and organizes files into structured directories.
 
+
 [![Project Demo](./assets/FileSorterDemo.gif)](https://www.youtube.com/watch?v=ut_YJlpy00w)
+**Click the GIF to watch the full demo**
 
 ---
 
